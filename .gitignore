@@ -1,0 +1,27 @@
+# Virtual environment
+nlp_env/
+venv/
+env/
+
+# Large model files
+*.keras
+*.pt
+*.bin
+*.h5
+*.safetensors
+
+# Dataset files
+*.csv
+*.zip
+*.tar.gz
+
+# Kaggle cache
+.cache/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
